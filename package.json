@@ -1,13 +1,13 @@
 {
   "name": "finns-utils",
   "version": "1.0.0",
-  "description": "",
+  "description": "A collection of utility functions that Finn finds useful 🛠",
   "main": "index.js",
   "scripts": {
     "start": "nodemon index.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Finn Terdal",
   "license": "ISC",
   "dependencies": {},
   "devDependencies": {
